@@ -1,20 +1,20 @@
-## X-tex
-This is a project about real estate by X'tec
-By Griffin kimuita kemoi
+## X-tec
+This is a project about real estate by X-tec
+
 ## Description
-this a website about X-Tec .The offers given by the project website.
+This a website about real estate was done for Vallie's Estate.
 
 ## Setup/Installation Requirements
 Visual studio code or any preffered code editor
 A browser
-How to get it to your local computer
+## How to get it to your local computer
 Ensure you are in your prefered folder, where you want it to be set up.
-run this comand in your terminal git clone
+run this command in your terminal 
+git clone
 live site
 view live
 
-Known Bugs
-no bugs as of deployment
+It should be easy to deploy
 
 ## Technologies Used
 In this project, I used the following technologies:
