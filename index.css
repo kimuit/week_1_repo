@@ -1,0 +1,115 @@
+body{
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+.column{
+    float: left;
+    width: 25%;
+    padding: 10px;
+    height: 300px;
+    margin: 0px 10px 0px 50px;
+}
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+.column2{
+    float: left;
+    width: 20%;
+    padding: 10px;
+    margin: 10px 5x 0px 50px;
+    background-color: #2549D3;
+}
+.view{
+    font-size: smaller;
+    text-align: right;
+    color: white;
+    background-color: #2549D3;
+    padding: 5px 15px;
+    border: solid 1px #2549D3;
+    border-radius: 10px;
+margin-left: 1065px;
+margin-right: 100px;
+}
+.row2{
+    color: white;
+    background-color: #2549D3;
+    border: solid 1px blue;
+    margin: 10px 20px 10px 50px;
+    padding: 5px 15px;
+    height: 300px;
+}
+.titles{
+    text-align: center;
+}
+#title{
+    color: #2549D3;
+}
+.image{
+    display: inline;
+    margin-left: 40px;
+}
+.phase3{
+    text-align: right;
+    margin-right: 50px;
+    display: inline;
+}
+#img2{
+    margin-right: 650px;
+    margin-left: 50;
+    display: inline;
+}
+.phase1{
+    display: inline;
+}
+.ph1{
+    font-size: medium;
+    text-align: center;
+    color: white;
+    background-color: #2549D3;
+    padding: 5px 15px 5px 15px;
+    border: solid 1px #2549D3;
+    border-radius: 10px;
+margin-left: 1055px;
+margin-right: 100px;
+}
+.Headings{
+    float: left;
+    width: 10%;
+    padding: 10px;
+    height: 7px;
+    margin: 0px 10px 0px 10px;
+}   
+#sakura{
+    display: inline-block;
+    margin-left: 750;
+}
+
+.easy{
+    float: left;
+    width: 22%;
+    padding: 10px;
+    margin: 0px 10px 0px 70px;
+    display: inline;
+}
+.products:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    .italics{
+        font-style: var(Space, Grotesk, Script );
+    }
+.w::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.lumnw{
+    float: left;
+    width: 22%;
+    padding: 10px;
+    margin: 0px 10px 0px 70px;
+    display: inline;
+}
